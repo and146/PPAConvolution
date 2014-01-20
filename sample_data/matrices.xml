@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<matrices>
+	<matrix name="matrix_1">
+		<row>
+			<col>1</col>
+			<col>2</col>
+			<col>1</col>
+		</row>
+		<row>
+			<col>2</col>
+			<col>4</col>
+			<col>2</col>
+		</row>
+		<row>
+			<col>1</col>
+			<col>2</col>
+			<col>1</col>
+		</row>
+	</matrix>
+
+	<matrix name="matrix_2">
+		<row>
+			<col>0</col>
+			<col>1</col>
+			<col>0</col>
+		</row>
+		<row>
+			<col>1</col>
+			<col>4</col>
+			<col>1</col>
+		</row>
+		<row>
+			<col>0</col>
+			<col>1</col>
+			<col>0</col>
+		</row>
+	</matrix>
+
+	<matrix name="matrix_3">
+		<row>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+		</row>
+		<row>
+			<col>-2</col>
+			<col>0</col>
+			<col>2</col>
+		</row>
+		<row>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+		</row>
+	</matrix>
+
+	<matrix name="matrix_4">
+		<row>
+			<col>-2</col>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+			<col>2</col>
+		</row>
+		<row>
+			<col>-2</col>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+			<col>2</col>
+		</row>
+		<row>
+			<col>-2</col>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+			<col>2</col>
+		</row>
+		<row>
+			<col>-2</col>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+			<col>2</col>
+		</row>
+		<row>
+			<col>-2</col>
+			<col>-1</col>
+			<col>0</col>
+			<col>1</col>
+			<col>2</col>
+		</row>
+	</matrix>
+</matrices>

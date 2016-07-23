@@ -31,3 +31,4 @@ usage: uber-ConvolutionTool-1.0-SNAPSHOT.jar
  -si,--show-input-image             show input image when loaded
  -so,--show-output-image            show input image(s) when loaded
  -wl,--measure-working-loops-only   measures only the working loops
+ 
